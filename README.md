@@ -25,7 +25,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,python,django,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,java,spring" />
 </p>
 
 ### 🗄️ Database
