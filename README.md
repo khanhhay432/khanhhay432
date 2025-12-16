@@ -20,7 +20,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,angular,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,angular,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -39,7 +39,7 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
 </p>
 
 ### 🧰 Tools & Others
