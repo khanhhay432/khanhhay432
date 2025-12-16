@@ -44,7 +44,7 @@
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,anaconda,firebase,unity" />
+  <img src="https://skillicons.dev/icons?i=postman,firebase" />
 </p>
 
 ---
