@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quốc Khánh
 
-### 💻 A Passionate Blade & Full-Stack Developer
+### 💻 Full-Stack Developer | Laravel (Blade) • Node.js
 
 ---
 
@@ -9,18 +9,43 @@
   <a href="https://github.com/khanhhay432" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
          alt="GitHub"
-         width="40"
-         height="40"/>
+         width="36"
+         height="36"/>
+  </a>
+  <a href="https://www.facebook.com/share/1ACTnmodVz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         alt="Facebook"
+         width="36"
+         height="36"/>
+  </a>
+  <a href="mailto:tranquockhanh16042004@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+         alt="Email"
+         width="36"
+         height="36"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## 🧭 About Me
+I am a **Full-Stack Developer** with a strong backend focus, specializing in  
+**Laravel (Blade)** and **Node.js**.  
+I enjoy building clean, maintainable, and scalable web applications with
+clear architecture and production-ready practices.
+
+- 💡 Focus on **Laravel / Blade** ecosystem  
+- 🔧 Experience with **RESTful APIs, Docker, CI/CD**
+- 🧱 Interested in **Backend Architecture & System Design**
+- 🌱 Continuously learning and improving engineering fundamentals
+
+---
+
+## 🛠 Tech Stack
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -31,29 +56,21 @@
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-       width="48"
-       height="48"
-       alt="mssql"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
-</p>
-
-### 🧰 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💡 Focus on **Blade / Laravel** ecosystem  
-- 🔧 Experience with **REST API, Docker, CI/CD**
-- 🌱 Interested in **Backend Architecture & DevOps**
-- 🧠 Always learning new technologies
+## 📌 Featured Projects
+- **Laravel REST API** – Authentication, validation, clean architecture, Dockerized
+- **Blade Admin Dashboard** – Role-based access control, reusable components
+- **Node.js API** – Express/NestJS, JWT authentication, PostgreSQL
+
+> 📍 Pin these repositories on GitHub to highlight them here.
 
 ---
 
