@@ -45,22 +45,22 @@ clear architecture and production-ready practices.
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,spring" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ☁️ DevOps & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
 </p>
 
 ---
