@@ -62,19 +62,3 @@ clear architecture and production-ready practices.
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git" />
 </p>
-
----
-
-## 📌 Featured Projects
-- **Laravel REST API** – Authentication, validation, clean architecture, Dockerized
-- **Blade Admin Dashboard** – Role-based access control, reusable components
-- **Node.js API** – Express/NestJS, JWT authentication, PostgreSQL
-
-> 📍 Pin these repositories on GitHub to highlight them here.
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhhay432&show_icons=true&theme=tokyonight" />
-</p>
