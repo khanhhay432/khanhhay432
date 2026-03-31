@@ -30,14 +30,13 @@
 
 ## 🧭 About Me
 I am a **Full-Stack Developer** with a strong backend focus, specializing in  
-**Laravel (Blade)** and **Node.js**.  
+**Node.js**.  
 I enjoy building clean, maintainable, and scalable web applications with
 clear architecture and production-ready practices.
 
-- 💡 Focus on **Laravel / Blade** ecosystem  
-- 🔧 Experience with **RESTful APIs, Docker, CI/CD**
-- 🧱 Interested in **Backend Architecture & System Design**
-- 🌱 Continuously learning and improving engineering fundamentals
+- Experience with **RESTful APIs, Docker, CI/CD**
+- Interested in **Backend Architecture & System Design**
+- Continuously learning and improving engineering fundamentals
 
 ---
 
@@ -45,12 +44,12 @@ clear architecture and production-ready practices.
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
 </p>
 
 ### 🗄️ Database
@@ -60,5 +59,5 @@ clear architecture and production-ready practices.
 
 ### ☁️ DevOps & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
