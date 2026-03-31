@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quốc Khánh
 
-### 💻 Full-Stack Developer | Laravel (Blade) • Node.js
+### 💻 Full-Stack Developer | Node.js
 
 ---
 
