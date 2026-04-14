@@ -51,18 +51,18 @@ const quocKhanh = {
 
 ---
 
-## 📌 Featured Projects
+``## 📌 Featured Projects``
 
-> 🚧 *Đang cập nhật – sẽ có dự án thực tế tại đây sớm!*
+``> 🚧 *Đang cập nhật – sẽ có dự án thực tế tại đây sớm!*``
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🔐 Auth API | JWT Authentication REST API | Node.js, Express, MongoDB | [repo](#) |
-| 📦 CRUD App | Product management backend | Node.js, MySQL | [repo](#) |
+``| Project | Description | Stack | Link |``
+``|--------|-------------|-------|------|``
+``| 🔐 Auth API | JWT Authentication REST API | Node.js, Express, MongoDB | [repo](#) |``
+``| 📦 CRUD App | Product management backend | Node.js, MySQL | [repo](#) |``
 
-> 💡 *Thêm project thật của bạn vào bảng này nhé!*
+``> 💡 *Thêm project thật của bạn vào bảng này nhé!*``
 
----
+``---``
 
 ## 📊 GitHub Stats
 
