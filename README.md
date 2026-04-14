@@ -90,6 +90,4 @@ const quocKhanh = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=khanhhay432&style=flat-square&color=00d9ff" alt="Profile views"/>
-  
-  *"First, solve the problem. Then, write the code." – John Johnson*
 </div>
