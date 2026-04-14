@@ -13,11 +13,29 @@
 
 ```js
 const quocKhanh = {
-  role:         "Backend Developer Intern",
-  stack:        ["Node.js", "Express.js", "MongoDB", "MySQL"],
-  currentFocus: "Building clean RESTful APIs & learning system design",
-  funFact:      "I debug with console.log and I'm not ashamed 😄",
-  openTo:       "Backend Internship & Junior Developer roles",
+  role: "Backend Developer Intern",
+
+  stack: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+
+  focus: [
+    "Building scalable RESTful APIs",
+    "Writing clean and maintainable backend code",
+    "Understanding backend architecture fundamentals"
+  ],
+
+  currentlyLearning: [
+    "System design basics",
+    "Authentication & authorization (JWT, session)",
+    "Database design & optimization"
+  ],
+
+  goal: "Grow into a Junior Backend Developer with strong fundamentals",
+
+  mindset: "Learning by building, improving through iteration",
+
+  funFact: "I still use console.log for debugging — but I’m leveling up every day 😄",
+
+  openTo: "Backend Internship & Junior Developer opportunities"
 };
 ```
 
