@@ -1,7 +1,7 @@
 <div align="center">
 
 # Trần Quốc Khánh
-### Backend Developer Intern · Node.js Enthusiast · Always Shipping
+### Backend Developer Intern · Node.js
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Node.js+%7C+Express.js+%7C+MongoDB;Building+RESTful+APIs+%F0%9F%9A%80;Learning+every+single+day+%F0%9F%92%AA;Open+to+Backend+Internship+Opportunities)](https://git.io/typing-svg)
 
@@ -13,29 +13,10 @@
 
 ```js
 const quocKhanh = {
-  role: "Backend Developer Intern",
-
-  stack: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-
-  focus: [
-    "Building scalable RESTful APIs",
-    "Writing clean and maintainable backend code",
-    "Understanding backend architecture fundamentals"
-  ],
-
-  currentlyLearning: [
-    "System design basics",
-    "Authentication & authorization (JWT, session)",
-    "Database design & optimization"
-  ],
-
-  goal: "Grow into a Junior Backend Developer with strong fundamentals",
-
-  mindset: "Learning by building, improving through iteration",
-
-  funFact: "I still use console.log for debugging — but I’m leveling up every day 😄",
-
-  openTo: "Backend Internship & Junior Developer opportunities"
+  stack: ["Node.js", "Express", "MongoDB", "MySQL"],
+  focus: "Building RESTful APIs & improving backend fundamentals",
+  goal: "Become a strong Junior Backend Developer",
+  openTo: "Internship / Junior Backend roles"
 };
 ```
 
