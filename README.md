@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   BUILDING BACKENDS, ONE API AT A TIME   ║
-╚══════════════════════════════════════════╝
-```
-
 # Trần Quốc Khánh
 ### Backend Developer Intern · Node.js Enthusiast · Always Shipping
 
