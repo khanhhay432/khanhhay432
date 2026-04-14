@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quốc Khánh
 
-### 💻 Full-Stack Developer | Node.js
+### 💻 Backend Developer Intern (Node.js)
 
 ---
 
@@ -9,12 +9,6 @@
   <a href="https://github.com/khanhhay432" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
          alt="GitHub"
-         width="36"
-         height="36"/>
-  </a>
-  <a href="https://www.facebook.com/share/1ACTnmodVz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="Facebook"
          width="36"
          height="36"/>
   </a>
@@ -29,14 +23,12 @@
 ---
 
 ## 🧭 About Me
-I am a **Full-Stack Developer** with a strong backend focus, specializing in  
-**Node.js**.  
-I enjoy building clean, maintainable, and scalable web applications with
-clear architecture and production-ready practices.
+I am an Information Technology student with a strong interest in backend development using **Node.js**.  
+Currently learning and building projects focused on **RESTful APIs** and working with databases.
 
-- Experience with **RESTful APIs, Docker, CI/CD**
-- Interested in **Backend Architecture & System Design**
-- Continuously learning and improving engineering fundamentals
+- Familiar with **Node.js, Express.js, MongoDB**
+- Basic understanding of **REST APIs and backend development**
+- Eager to learn and improve through real-world projects
 
 ---
 
@@ -49,15 +41,15 @@ clear architecture and production-ready practices.
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ☁️ DevOps & Environment
+### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
